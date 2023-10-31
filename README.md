@@ -1,1 +1,1 @@
-# data-structures-in-Java
+# Java-sample
